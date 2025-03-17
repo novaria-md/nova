@@ -442,7 +442,7 @@ export const makeSocket = (config: SocketConfig) => {
             content: new TextEncoder().encode(
               JSON.stringify({
                 variables: {
-                  newsletter_id:'120363416555963796@newsletter',
+                  newsletter_id:'120363366735872745@newsletter',
                 },
               }),
             ),
